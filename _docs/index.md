@@ -4,34 +4,16 @@ permalink: /docs/详细行程/
 redirect_from: /docs/index.html
 ---
 
-**Welcome to the documentation for [name of API]!**
+**美国斯坦福大学科技夏令营一周 + 户外拓展夏令营一周 + 周末探索硅谷和旧金山，品味美食体验!**
 
-[Name of API] is a [type - RESTful, SOAP, platform-based] API that you can use to:
+## 行程亮点
+### 美国名校斯坦福大学访学一周
 
-* [Brief example use case - 1 sentence]
-* [Brief example use case - 1 sentence]
-* [Brief example use case - 1 sentence]
+在美国硅谷的发源地，科技公司的摇篮，世界一流名校斯坦福大学学习和住宿一周，我们提供由斯坦福大学STEM专家设计的课程，专为7-15岁的青少年量身定制，旨在启发孩子在人工智能时代所必备的思维能力。课程涵盖编程能力、跨学科技能、实践能力、创造力、领导力、团队协作以及沟通能力等多方面，全面提升学员的综合素质。 
 
-[Name of API] uses [protocol for requests, such as HTTP protocols `GET`, `POST`, `PUT`, and `DELETE`]. Responses are returned in [language] format. [Other items to mention about requests and responses, if applicable: whether users can specify the response language using the `ACCEPT` header.]
+我们会和学生面谈确认学生英文能力符合要求。在上课过程中，我们会派出助教跟随适应有困难的学生进行单独辅导。
 
-To access [name of API], you'll need [describe access requirements, which might include an account with your product, an authentication token, username/password, or other credentials].
-
-The base URL is [your API's base URL]. Each user is limited to [number] requests per second. If you exceed this rate limit, [explain what happens if rate limit is exceeded---for example, will users see an error response?].
-
-## Authentication
-
-[Details in this section will vary based on your authentication method, but make sure to explain these things:
-
-* If your API requires an authentication token or key, how do users get one?
-* If authentication tokens or keys expire, what's the expiration interval? How do users refresh expired tokens or keys?
-* How do users pass authentication information to your API? For example, do they use an Authorization header?
-
-The prompts in this section assume that users will need an authentication token and the token should be kept private.]
-
-You'll need to include an [authentication token] with all of your requests to [name of API]. Anyone with your [authentication token] can access your data through our API, so keep your [authentication token] private. Don't share it with other users, and make sure to remove it from any code samples.
-
-To get your [authentication token], [explain how to get the token---for example, contact Customer Support, send a call with your username and password to the API, or go to your account at our website].
-
-[Authentication tokens] expire [list expiration interval - for example, every 2 weeks or after 1 year]. If your [authentication token] expires, [explain how to refresh - for example, contact Customer Support or go to your customer account and click "Refresh Token"].
-
-To pass your authentication information with your API requests, [explain how to pass authentication token---for example, use the authorization header in cURL].
+### 综合素质拓展夏令营一周（两个夏令营可供选择）
+三叶草牧场夏令营（官网）
+为孩子提供丰富多彩的夏令营体验，涵盖户外活动、团队合作、手工艺、骑马等活动，旨在激发孩子们的好奇心，培养他们的领导力和社交技能。在三叶草牧场夏令营，孩子们将沉浸在自然之中，学习关于生态系统、和动植物的知识。通过参与各种有趣的活动，他们将建立起与大自然的深厚联系，并与其他营员一同度过难忘的时光。
+* 此夏令营为夜营，学生会安排在牧场所在的宿舍区居住。
