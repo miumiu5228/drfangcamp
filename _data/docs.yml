@@ -1,10 +1,8 @@
 - title: 详细行程
   docs:
-  - home
-  - 详细方案
-  - code_samples
-  - mdreference
-  - openapi
+  - 行程概括
+  - 套餐方案与价格
+  - 签证与机票
 
 - title: 夏令营简介
   docs:
