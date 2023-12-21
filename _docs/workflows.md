@@ -1,6 +1,6 @@
 ---
-title: Workflows
-permalink: /docs/workflows/
+title: 详细方案
+permalink: /docs/详细方案/
 ---
 
 [Describe the optimal or assumed workflows for a few things users can accomplish with your API. Think about the most common and highest-impact outcomes. Each workflow should walk users through a brief explanation, any prerequisites, and the steps involved in completing the outcome with your API, including the reasons users must take each step and the API call required to finish the step.
