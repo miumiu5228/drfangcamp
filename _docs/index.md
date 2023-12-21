@@ -1,6 +1,6 @@
 ---
-title: Get started
-permalink: /docs/home/
+title: 详细行程
+permalink: /docs/详细行程/
 redirect_from: /docs/index.html
 ---
 
