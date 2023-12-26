@@ -1,8 +1,6 @@
 # Site settings
 title: 方博士教育咨询公司
 email: your-email@domain.com
-description: >
-  Documentation for [company name]'s' [name of API].
 
 git_address: https://github.com/launchany/mvp-template
 git_edit_address: https://github.com/launchany/mvp-template/blob/gh-pages
